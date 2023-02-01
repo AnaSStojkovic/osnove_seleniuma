@@ -1,2 +1,6 @@
 target/
 .idea/
+.downloads/
+.itbootcamp_slider/
+.screenshots/
+.test_data/
